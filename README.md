@@ -28,3 +28,16 @@ As manager you will be either Admin or Superadmin, the roles are almost similar 
 All new EPAMers can be Users only (in the beginning until they are not promoted as Admin or Superadmin).
 Admin (Superadmin) can work on Task Management, Broadcast, Statistics and Settings, where you can find Admin and User Management.
 
+Critical Success Factors
+Adherence to Schedule: Complete development and testing of all planned functionality within the agreed timeline to avoid project delays.
+Multi-Language Interface Support: Ensure the bot and Admin Panel are fully functional and user-friendly in all supported languages.
+No Major Bugs: At the time of final release, the application should not have any unresolved issues with Critical or Major or Severity. 
+Functional Stability: Functional requirements should be clearly defined and stable, with no last-minute changes to the scope that might impact testing or development.
+Scalability: The system must handle the anticipated number of users (Admins, SuperAdmins, regular Users) without performance degradation.
+Role-Based Access Control: Permissions and restrictions for all user roles (SuperAdmin, Admin, User) must work as specified, without unauthorized access to sensitive features.
+Integration Reliability: Seamless communication between the Admin Panel and Telegram bot should be thoroughly validated, with no sync errors.
+User Registration and Onboarding: Ensure EPAM colleagues can register with ease using their work email and enjoy a smooth onboarding experience via game-like interactions.
+Task Management: SuperAdmin and Admin must successfully create, approve, rework, and delete tasks with proper workflow transitions visible to all participants.
+Security Compliance: Protect user data by following security standards to prevent breaches, unauthorized access or data corruption.
+Statistics Accuracy: All metrics and analytics (e.g., active users, task completions) must be precise and updated in real-time.
+Accessibility: Both the Admin Panel and Telegram bot should meet usability and accessibility standards, catering to diverse user needs.
