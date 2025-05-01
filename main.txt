@@ -1,1 +1,23 @@
 Это основной файл проекта
+
+Introduction
+This document describes the approach and methodologies used by the testing team to plan, organize and perform the testing of the ”Buddy Bot” project.
+
+The “Buddy Bot” is a virtual assistant designed to streamline the onboarding process for new employees, customers, and community members through conversational guidance, resource access, FAQs, and human support when necessary.
+The project consists of 2 main components:
+Admin panel will allow Location Heads, HRs and community drivers to create and maintain tasks and broadcasts of FS Chatbot. 
+Telegram bot will allow users to get acquainted with the company in the game form with various tasks typical for employees.
+
+Quality and Acceptance Criteria
+Functionality:
+All features (e.g., task creation, registration, broadcasts) must meet their specified requirements.
+Performance:
+The bot and Admin Panel must respond within acceptable time frames under normal and peak loads.
+Usability:
+The interface of both Admin Panel and Telegram bot must be user-friendly and consistent across devices.
+Security:
+Ensure user data is protected and unauthorized access is not possible.
+Accuracy:
+Statistics and analytics must display correct data without discrepancies.
+Bug Threshold:
+No critical bugs and major bugs remaining at the time of deployment
